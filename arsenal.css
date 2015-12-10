@@ -1,0 +1,128 @@
+html {
+	font-family: 'Arsenal', sans-serif;
+}
+
+body {
+	width: 1500px;
+	background-color: white;
+	margin: 0 auto;
+	font-size: 30px;
+	background-image: url(firstwebsite/emirates.jpg);
+	background-size: 1680px;
+	background-repeat: no-repeat;
+}
+
+.border_center li {
+
+}
+
+#header {
+	border: solid red;
+	background-color: red;
+}
+
+
+.center img {
+	margin:0 auto;
+	width: 200px;
+	float: right;
+}
+
+.center h1 {
+	width: 500px;
+	margin: 0 auto;
+	color: white;
+
+}
+
+.center h2 {
+	width: 500px;
+	margin: 0 auto;
+	color: white;
+	left: 50px;
+}
+
+#main {
+	float: left;
+	width: 650px;
+}
+
+#side {
+	float: right;
+	width: 700px;
+}
+
+#alexis {
+	width: 400px;
+	float: left;
+	padding-right: 20px;
+	padding-top: 20px;
+}
+
+#wenger {
+	position: relative;
+	width: 300px;
+	float: right;
+	padding-right: 20px;
+	padding-top: 20px;
+}
+
+.socal_media {
+	
+}
+
+#twitter {
+	width: 70px;
+	float: left;
+	top: 400px;
+	position: fixed;
+	left: 30px;
+}
+
+#facebook {
+	width: 70px;
+	float: left;
+	position: fixed;
+	left: 30px;
+}
+
+#twitter1 {
+	width: 70px;
+	float: left;
+	top: 450px;
+	position: fixed;
+	left: 30px;
+}
+
+#facebook1 {
+	width: 70px;
+	float: left;
+	position: fixed;
+	left: 30px;
+}
+
+#column1 {
+	float: left; width: 33%;
+}
+
+#column2 {
+	float: right; width: 33%;
+}
+
+#column3 {
+	display: inline-block: 33%; 
+	padding-left:20px
+}
+
+.pic1 {
+	height: 200px;
+	width: 200px;
+	float: left;
+}
+
+.pic2 {
+	height: 200px;
+	width: 200px;
+	float: left;
+}
+

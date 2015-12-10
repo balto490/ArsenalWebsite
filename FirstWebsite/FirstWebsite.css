@@ -1,0 +1,133 @@
+body {
+
+background-image: url("pitch.jpg");
+background-size: 100vw 100vh;
+background-repeat: no-repeat;
+background-attachment: fixed;
+font-family: "Tahoma", serif;
+height:1200px;
+width:100vh;
+
+}
+
+/*####OMIT*/
+/*ul {
+
+list-style-type: square;
+padding: 2px;
+border:1px solid green;
+
+}*/
+
+h1 {
+color: white;
+position:fixed;
+
+}
+
+
+.b {
+
+
+
+}
+
+a {
+
+text-decoration: none;
+
+}
+
+a:hover {
+
+text-decoration: underline;
+
+}
+
+ul {
+
+border-image-width: 100px;
+list-style: none;
+}
+
+#logo {
+
+width: 120px;
+position:fixed;
+top: 10px;
+left: 500px;
+
+}
+
+.player_image {
+	margin-left:320px;
+}
+
+
+#oliver {
+	position: fixed;
+	top: 300px;
+	left: 800px;
+
+}
+
+#aaron {
+	position: fixed;
+	top:500px;
+	left: 600px;
+}
+
+#mesut {
+	position:fixed;
+	top: 300px;
+	left:580px;
+}
+
+#alexis {
+	position: fixed;
+	top: 100px;
+	left: 600px;
+}
+
+#hector {
+	position: fixed;
+	top: 500px;
+	left: 190px;
+}
+
+#per {
+	position: fixed;
+	top:375px;
+	left:170px;
+}
+
+#laurent {
+	position: fixed;
+	top: 225px;
+	left: 170px;
+}
+
+#nacho {
+	position: fixed;
+	top:100px;
+	left:200px;
+}
+
+#francis {
+	position: fixed;
+	top:200px;
+	left: 400px;
+}
+
+#santi {
+	position: fixed;
+	top:400px;
+	left:410px;
+}
+
+#petr {
+	position: fixed;
+	top:300px;
+	left:0px;
+
+}
